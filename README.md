@@ -1,5 +1,7 @@
 # Project Documentation: Chatbot Application
 
+> **Scope** · Timeboxed technical assessment (short). Built to a brief under a fixed clock — scope decisions were deliberate.
+
 ## Introduction
 This project involves developing a chatbot application using Python, Flask, and spaCy for natural language processing. The chatbot aims to provide responses to frequently asked questions (FAQs) based on user input.
 
